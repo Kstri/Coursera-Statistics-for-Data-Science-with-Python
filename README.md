@@ -12,9 +12,9 @@ approaches for different data types, developing an intuitive understanding, maki
 
 This course is suitable for a variety of professionals and students intending to start their journey in data and statistics-driven roles such as Data Scientists, Data Analysts, Business Analysts, Statisticians, and Researchers. It does not require any computer science or statistics background.  We strongly recommend taking the Python for Data Science course before starting this course to get familiar with the Python programming language,  Jupyter notebooks, and libraries. An optional refresher on Python is also provided.
 
-After completing this course, a learner will be able to:
+After completing this course, a learner will be able to:\
 ✔Calculate and apply measures of central tendency and measures of dispersion to grouped and ungrouped data.
-✔Summarize, present, and visualize data in a way that is clear, concise, and provides a practical insight for non-statisticians needing the results.
-✔Identify appropriate hypothesis tests to use for common data sets.
-✔Conduct hypothesis tests, correlation tests, and regression analysis.
+✔Summarize, present, and visualize data in a way that is clear, concise, and provides a practical insight for non-statisticians needing the results.\
+✔Identify appropriate hypothesis tests to use for common data sets.\
+✔Conduct hypothesis tests, correlation tests, and regression analysis.\
 ✔Demonstrate proficiency in statistical analysis using Python and Jupyter Notebooks.
